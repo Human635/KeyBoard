@@ -24,6 +24,7 @@ function keyPress(event) {
 }
 
 keys.forEach(key => {
+  console.log('textInput')
   key.addEventListener('click', keyPress);
 });
 
