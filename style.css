@@ -35,3 +35,17 @@ body {
     background-color: rgba(33, 24, 212, 0.538);
     color: #fff;
 }
+
+.keySP{
+    width: 60px;
+    height: 60px;
+    border: 3px solid #9e1df4;
+    border-radius: 10px;
+    background-color: #fff;
+    font-size: 16px;
+    justify-content: space-between;
+    background-color: rgba(33, 24, 212, 0.538);
+    color: #fff;
+}
+
+
